@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Environment Variables
+
+The URL that connects the frontend and backend is stored in an .env file as REACT_APP_BASE_URL.
+For uploading/fetching images from the server, that URL is also stored in .env file as REACT_APP_ASSETS_URL.
+
 ## Available Scripts
 
 In the project directory, you can run:
